@@ -8,4 +8,6 @@ if we want to merge a code  way 1<hr>
 check git differences both of them by using   git diff<branch name>(to campare commits ,branches,files &more)<hr>
 git merge<branch name><hr><hr><hr>
 way 2<hr>
-create a PR(pull request)
+create a PR(pull request)<hr>
+after we merged a two branch if we want this change in your local then use a git pull origin main
+
